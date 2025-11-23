@@ -14,4 +14,4 @@
 // insert cont1;
 // insert lead1;
 
-ContactAndLeadSearch.searchContactsAndLeads('Smith');G
+ContactAndLeadSearch.searchContactsAndLeads('Smith');

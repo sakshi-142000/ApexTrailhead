@@ -1,0 +1,2 @@
+ApexRestCalloutDemo.getUsersFromReqres();
+ApexRestCalloutDemo.createUsersForReqres();
