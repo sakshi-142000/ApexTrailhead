@@ -7,5 +7,35 @@
   },
   "xml.preferences.showSchemaDocumentationType": "none",
   "salesforce.einsteinForDevelopers.enableAutocompletionsSleepModeMonitoring": false,
-  "salesforce.einsteinForDevelopers.enableAutocompletions": false
+  "salesforce.einsteinForDevelopers.enableAutocompletions": false,
+  "editor.suggest.filterGraceful": false,
+  "editor.screenReaderAnnounceInlineSuggestion": false,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+  "editor.suggest.showClasses": false,
+  "editor.suggest.showColors": false,
+  "editor.suggest.showConstants": false,
+  "editor.suggest.showConstructors": false,
+  "editor.suggest.showCustomcolors": false,
+  "editor.suggest.showDeprecated": false,
+  "editor.suggest.showEnumMembers": false,
+  "editor.suggest.showEvents": false,
+  "editor.suggest.showEnums": false,
+  "editor.suggest.showFields": false,
+  "editor.suggest.showFiles": false,
+  "editor.suggest.showFolders": false,
+  "editor.suggest.showInterfaces": false,
+  "editor.suggest.showIssues": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showMethods": false,
+  "editor.suggest.showOperators": false,
+  "editor.suggest.showModules": false,
+  "editor.suggest.showProperties": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "editor.quickSuggestions": {
+    "other": "off"
+  },
+  "editor.snippetSuggestions": "none",
+  "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false
 }
